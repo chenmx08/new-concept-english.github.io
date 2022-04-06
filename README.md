@@ -10,8 +10,13 @@
 | 2    | [Breakfast or lunch？](./新概念2/2/2.html)   | 正在进行时（表示正在进行发生的事）<br/>正在进行时（表示近期计划或安排进行的事） | 2022年3月29日 |
 | 3    | [Please send me a card](./新概念2/3/3.html)  | 一般过去时（句子中一般带有过去时间点)                        | 2022年3月31日 |
 | 4    | [An exciting trip](./新概念2/4/4.html)       | 现在完成时（发生在过去，对现在有影响）<br/>have/has + been/did | 2022年3月31日 |
-| 5    | [No wrong numbers](./新概念2/5/5.html)       |                                                              |               |
-| 6    | [Percy Buttons](./新概念2/6/6.html)          |                                                              |               |
+| 5    | [No wrong numbers](./新概念2/5/5.html)       | 一般过去时<br/>现在完成时                                    | 2022年4月1日  |
+| 6    | [Percy Buttons](./新概念2/6/6.html)          | 不定冠词 a some 表示一些                                     | 2022年4月2日  |
+| 7    | [Too Late](./新概念2/7/7.html)               | 过去进行时（过去正在发生的事情）<br/>was/were doing<br/> 表示过去什么事情发生时当时正在进行写什么动作 | 2022年4月6日  |
+| 8    | [The best and the worst](./新概念2/8/8.html) | 比较级的使用                                                 | 2022年4月6日  |
+| 9    | [A cold welcome](./新概念2/9/9.html)         | 时间点使用<br/>in twenty minutes’time 20分钟后               | 2022年4月6日  |
+| 10   |                                              |                                                              | 2022年4月6日  |
+|      |                                              |                                                              |               |
 |      |                                              |                                                              |               |
 |      |                                              |                                                              |               |
 |      |                                              |                                                              |               |
