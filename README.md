@@ -4,6 +4,8 @@
 
 ## [网页查看 第二册](https://chenmx08.github.io/new-concept-english.github.io/)
 
+<a href="https://chenmx08.github.io/new-concept-english.github.io" target="_blank">网页查看 第二册</a>
+
 | 序号 | 名称                                                   | 语法                                                         | createTime    |
 | ---- | ------------------------------------------------------ | ------------------------------------------------------------ | ------------- |
 | 1    | [A private conversation](./新概念2/1/1.html)           | 一般过去时（发生在过去，已经完成结束）<br/>过去进行时（强调过去正在发生的事情） | 2022年3月30日 |
