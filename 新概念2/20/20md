@@ -1,0 +1,41 @@
+# One man in a boot  
+
+------
+
+Fishing is my favourite sport . I often fish for hours without catching anything .
+
+But this does not worry me .
+
+Some fishermen are unlucky 
+
+Instead of catching fish , they catch old boots and rubbish .
+
+I am even less lucky .I never catch anything ---not even old boots 
+
+After having spent whole mornings on the river , I always go home with an empty bag 
+
+You must give up fishing , my friends say , It's a waste of time , 
+
+But they don't realize on important thing . I'm not really interesting in fishing . I am only interesting in sitting in a boat and doing nothing at all 
+
+------
+
+<div >
+    <p id='a' style="color:lightblue;opacity:0.2">
+         钓鱼是我最喜欢的运动。我经常钓几个小时鱼却什么都没有钓到。但是这并不令我心烦。有些钓鱼人运气不好，比起钓鱼他们钓到的更多的是旧鞋子和一些垃圾。但是我就更倒霉了，啥也没有--连旧鞋子都没有。
+        当我在河边钓了一早上的鱼，带着空空的袋子回到家。我的朋友劝我说“你还是放弃钓鱼把，这简直就是浪费时间。
+        但是他们没有意思到其中的关键，我不是真的喜欢钓鱼，我只是喜欢坐在船上啥事也不干的感觉
+	</p>
+<button onclick="document.getElementById('a').style.opacity=1">显示翻译</button>
+<button onclick="document.getElementById('a').style.opacity=0">隐藏翻译</button>
+<button onclick="javascript:window.history.go(-1)">返回</button>
+</div>
+
+
+
+
+
+
+
+
+
